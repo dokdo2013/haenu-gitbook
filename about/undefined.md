@@ -4,7 +4,7 @@
 도전하며 성장하는 4년차 풀스택 개발자 조현우입니다.
 {% endhint %}
 
-### 조현우 (Hyeon Woo Jo)
+## 조현우 (Hyeon Woo Jo)
 
 * 이메일 : [hyeonwoo5342@gmail.com](mailto:hyeonwoo5342@gmail.com)
 * 깃허브 : [https://github.com/dokdo2013](https://github.com/dokdo2013)&#x20;
