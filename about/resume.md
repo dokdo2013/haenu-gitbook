@@ -1,7 +1,7 @@
 # ⚫ 이력서
 
 {% hint style="info" %}
-도전하며 성장하는 4년차 풀스택 개발자 조현우입니다.
+스타트업 정신으로 무장해서 **누구보다 빠르게 아이디어를 현실로 만들어내는** 4년차 풀스택 개발자 조현우입니다.
 {% endhint %}
 
 ## 조현우 (Hyeon Woo Jo)
@@ -95,7 +95,6 @@
 * **Cloudflare**를 프로덕션 환경에서 활용하며, DNS/WAF/Cache 등 다양한 기능들을 적재적소에 활용할 수 있습니다.
 * **Linux** 기반 시스템을 구축하고 운영할 수 있으며 Apache, Nginx 를 활용할 수 있습니다. (Ubuntu, Centos 등)
 * **Jenkins**나 **AWS CodePipeline, Github Actions, ArgoCD** 등을 이용해 PHP, Node.js, Python 서비스의 배포 과정을 자동화한 경험이 있습니다.
-  * Jenkins를 세팅하고 `Execute Shell` 기능을 이용해 원격지 서버로 원하는 프로젝트를 배포할 수 있습니다.
   * Jenkinsfile을 작성하여 배포 Pipeline을 구축할 수 있습니다.
   * Github Actions → AWS ECR (or Dockerhub) → ArgoCD → k8s cluster 방향으로 배포 과정을 자동화한 경험이 있습니다. (GitOps)
 {% endtab %}

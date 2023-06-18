@@ -5,7 +5,17 @@
 ## 😍 About me <a href="#about" id="about"></a>
 
 * [⚫ 이력서](about/resume.md)
-* [🔵 포트폴리오](about/portfolio.md)
+* [🔵 포트폴리오](about/portfolio/README.md)
+  * [TWIP VOD & CLIP](about/portfolio/twip-vod-and-clip.md)
+  * [TWIP 빙빙도네](about/portfolio/twip.md)
+  * [TWIP/TGD APP](about/portfolio/twip-tgd-app.md)
+  * [i.M 택시 예약서비스 웹뷰 개발](about/portfolio/i.m.md)
+  * [i.M 택시 백오피스 개발](about/portfolio/i.m-1.md)
+  * [HR Platform](about/portfolio/hr-platform.md)
+  * [Easy LMS](about/portfolio/easy-lms.md)
+  * [JDC 일자리데이터센터](about/portfolio/jdc.md)
+  * [직업카드심리검사](about/portfolio/undefined.md)
+  * [(사)한국직업상담협회 공동훈련센터](about/portfolio/undefined-1.md)
 * [🟢 사이드 프로젝트 (엄선된)](about/side/README.md)
   * [⭐ Clippy - MAU 4만 달성! (2022.11)](about/side/clippy-mau-4-2022.11.md)
   * [해리배치고사 (2022.07)](about/side/2022.07.md)
