@@ -6,7 +6,17 @@
 
 * [이력서](about/undefined.md)
 * [포트폴리오](about/undefined-1.md)
-* [사이드 프로젝트 (엄선된)](about/undefined-2.md)
+* [사이드 프로젝트 (엄선된)](about/undefined-2/README.md)
+  * [⭐ Clippy - MAU 4만 달성! (2022.11)](about/undefined-2/clippy-mau-4-2022.11.md)
+  * [해리배치고사 (2022.07)](about/undefined-2/2022.07.md)
+  * [전해리 방송일정 (2022.06)](about/undefined-2/2022.06.md)
+  * [나와 가장 잘 맞는 레븐 멤버는? (2022.06)](about/undefined-2/2022.06-1.md)
+  * [gellgell (2022.05)](about/undefined-2/gellgell-2022.05.md)
+  * [레븐 멀티트위치 (2022.04)](about/undefined-2/2022.04.md)
+  * [포도당 노래책 (2022.02)](about/undefined-2/2022.02.md)
+  * [트리니티 헬퍼 (2020.08)](about/undefined-2/2020.08.md)
+  * [해누플래너 (2018.08)](about/undefined-2/2018.08.md)
+  * [야자타임 (2016.07)](about/undefined-2/2016.07.md)
 * [사이드 프로젝트 (그 외)](about/undefined-3.md)
 * [Life History](about/life-history/README.md)
   * [2007 \~ 2012 - 초등학생 시절](about/life-history/2007-2012.md)
@@ -39,12 +49,8 @@
 
 ## 📚 blog
 
-* [Page 2](blog/page-2.md)
+* [개인 쿠버네티스 클러스터를 향한 여정](blog/undefined.md)
 
 ## 🎞 Retrospective
 
-* [Page 1](retrospective/page-1.md)
-
-## 🔫 Troubleshooting
-
-* [Page 3](troubleshooting/page-3.md)
+* [Clippy 회고](retrospective/clippy.md)
