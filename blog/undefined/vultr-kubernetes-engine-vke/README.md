@@ -1,2 +1,0 @@
-# 🛳 Vultr Kubernetes Engine (VKE)
-
