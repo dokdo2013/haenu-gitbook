@@ -29,7 +29,7 @@
   * 트윕 신규 후원 '빙빙도네' 백엔드 담당
   * [트윕 클립](https://vod.twip.kr) 서비스 Product Owner, 전체 개발(FE + BE) 담당
 * 주요 기술 스택
-  * BackEnd : NestJs, PHP CodeIgniter 3, Kubernetes, MySQL/MariaDB, Redis, AWS
+  * BackEnd : NestJS, PHP CodeIgniter 3, Kubernetes, MySQL/MariaDB, Redis, AWS
   * FrontEnd : Next.js, React.js
 
 </details>
@@ -65,7 +65,7 @@
 
 {% tabs %}
 {% tab title="Backend" %}
-* **Nest.js** 를 이용해 백엔드 API 서버를 개발할 수 있습니다.
+* **NestJS** 를 이용해 백엔드 API 서버를 개발할 수 있습니다.
   * **Sequelize, TypeORM** 등 Node.js 기반 **ORM 프레임워크**를 이용해 데이터베이스를 연동할 수 있습니다.
   * Express 만을 이용해서도 백엔드 API 서버 개발이 가능합니다.
 * 그 외 PHP와 Python을 이용해서 서비스를 개발한 경험도 많습니다. (신규 및 유지보수)
@@ -119,7 +119,7 @@
 
 ## 학력
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>세종사이버대학교</strong></td><td>컴퓨터·AI 공학과</td><td>2021.03 ~ 현재 재학중 (24년 2월 졸업 예정)</td></tr><tr><td><strong>가톨릭대학교</strong></td><td>컴퓨터정보공학부</td><td>2019.03 ~ 2021.02 (중퇴)</td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>세종사이버대학교</strong></td><td>컴퓨터·AI 공학과</td><td>2021.03 ~ 2024.02 (현재 재학중)</td></tr><tr><td><strong>가톨릭대학교</strong></td><td>컴퓨터정보공학부</td><td>2019.03 ~ 2021.02 (중퇴)</td></tr></tbody></table>
 
 
 

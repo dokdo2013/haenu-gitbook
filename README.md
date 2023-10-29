@@ -26,8 +26,8 @@ PDF 이력서 (Wanted 서식)
 [side](about/side/)
 {% endcontent-ref %}
 
-{% content-ref url="about/side-etc.md" %}
-[side-etc.md](about/side-etc.md)
+{% content-ref url="about/side-etc/" %}
+[side-etc](about/side-etc/)
 {% endcontent-ref %}
 
 ### 기타 링크

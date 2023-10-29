@@ -17,7 +17,6 @@ description: 프리미엄 택시 호출 서비스 i.M 택시 백오피스
 ### Frontend
 
 * Bootstrap + jQuery
-* (Webview) Vanilla Javascript & jQuery
 
 ### Backend & Infrastructure
 
@@ -34,7 +33,5 @@ description: 프리미엄 택시 호출 서비스 i.M 택시 백오피스
 ## 상세 개발 내용
 
 * 백오피스 기존 기능 유지보수
-* 웹뷰 신규 기능 (예약 서비스) 스크립트 개발 (퍼블 제외)
 * Cronjob 소스 작성 (휴면회원 이메일 발송, Python)
 * i.M 택시 홈페이지 유지보수 (마케팅 상세페이지 추가 등)
-
