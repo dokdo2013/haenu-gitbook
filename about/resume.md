@@ -1,17 +1,22 @@
 # ⚫ 이력서
 
 {% hint style="info" %}
-스타트업 정신으로 무장해서 **누구보다 빠르게 아이디어를 현실로 만들어내는** 4년차 풀스택 개발자 조현우입니다.
+스타트업 정신으로 무장해서 **누구보다 빠르게 아이디어를 현실로 만들어내는** 5년차 웹 풀스택 엔지니어 조현우입니다.
 {% endhint %}
 
 ## 조현우 (Hyeon Woo Jo)
 
 * 이메일 : [hyeonwoo5342@gmail.com](mailto:hyeonwoo5342@gmail.com)
 * 깃허브 : [https://github.com/dokdo2013](https://github.com/dokdo2013)&#x20;
+* 블로그 :[ https://blog.haenu.com](https://blog.haenu.com)
 
 
 
 ## 경력
+
+{% hint style="warning" %}
+각 회사에서 진행한 프로젝트는 [portfolio](portfolio/ "mention") 메뉴에서 살펴보실 수 있습니다
+{% endhint %}
 
 <details>
 
@@ -66,12 +71,31 @@
   * **PHP 기반 CodeIgniter 프레임워크**를 활용해 자유자재로 서비스를 구축할 수 있으며, **MVC 패턴**에 대해 이해하고 있습니다. (버전 3 & 4)
   * **Python Flask, FastAPI 프레임워크** 기반으로 **RESTFul API**를 설계할 수 있습니다.
   * VB ASP.Net과 C# ASP.Net, PHP 5.x 기반의 레거시 프로젝트 유지보수 및 신규개발 경험이 있습니다.
-* **MySQL, MariaDB** 등 RDBMS를 이용할 수 있으며 요구사항에 맞춰 스키마를 설계하고, 필요에 따라 Stored Procedure과 Scheduling 기능도 이용할 수 있습니다.
+* **MySQL, MariaDB, Postgresql** 등 RDBMS를 이용할 수 있으며 요구사항에 맞춰 스키마를 설계하고, 필요에 따라 Stored Procedure과 Scheduling 기능도 이용할 수 있습니다.
   * EXPLAIN 문으로 실행계획을 살펴보고, 쿼리 성능 개선을 한 경험이 있습니다.
 * **Redis**를 캐시, 세션, Event PubSub 용도로 활용할 수 있습니다.
   * 주로 ElastiCache를 이용해왔습니다.
   * 쿠버네티스 클러스터 내에 HA로 설치된 Redis를 이용한 경험도 있습니다.
-* ffmpeg 등을 이용한 대규모 영상 처리 서비스를 개발한 경험이 있습니다.
+{% endtab %}
+
+{% tab title="Infra & Devops" %}
+* **AWS** 클라우드 환경에서 프로덕션 환경의 인프라를 구성하고 운영할 수 있습니다.
+* Terraform을 이용해 IaC와 GitOps 기반으로 인프라를 프로비저닝하고 관리할 수 있습니다.
+* **쿠버네티스** 클러스터를 프로덕션 환경에서 운영할 수 있습니다.
+  * Helm을 이용해 필요한 앱을 설치하고 운영에 활용할 수 있습니다.
+  * Grafana, Prometheus, Jaeger와 Opentelemetry 등 다양한 모니터링 툴을 이용해 서비스의 가시성을 확보하고 안정적인 운영이 가능하도록 지원합니다.
+  * Linkerd와 같은 서비스메시를 도입해 활용한 경험이 있습니다.
+* CI/CD 파이프라인 구축
+*
+* **쿠버네티스**와 **도커**를 프로덕션 환경에서 활용할 수 있습니다.
+  * Dockerfile, docker-compose.yml 파일을 작성할 수 있습니다.
+  * 쿠버네티스의 주요 기능들을 이해하고, 운영에 필요한 yaml 파일을 작성할 수 있습니다. (실제로 개인 프로젝트 배포를 위한 개인 쿠버네티스 클러스터를 운영하고 있습니다)
+* **AWS** 기반으로 테스트, 프로덕션 환경을 구축할 수 있습니다. (EC2, RDS, Elastic Beanstalk, S3, Route53, CloudFront 등)
+* **Cloudflare**를 프로덕션 환경에서 활용하며, DNS/WAF/Cache 등 다양한 기능들을 적재적소에 활용할 수 있습니다.
+* **Linux** 기반 시스템을 구축하고 운영할 수 있으며 Apache, Nginx 를 활용할 수 있습니다. (Ubuntu, Centos 등)
+* **Jenkins**나 **AWS CodePipeline, Github Actions, ArgoCD** 등을 이용해 PHP, Node.js, Python 서비스의 배포 과정을 자동화한 경험이 있습니다.
+  * Jenkinsfile을 작성하여 배포 Pipeline을 구축할 수 있습니다.
+  * Github Actions → AWS ECR (or Dockerhub) → ArgoCD → k8s cluster 방향으로 배포 과정을 자동화한 경험이 있습니다. (GitOps)
 {% endtab %}
 
 {% tab title="Frontend" %}
@@ -85,18 +109,6 @@
 * PWA(Progressive Web App)를 Next 앱에서 세팅하여 배포해본 경험이 있습니다.
 * Vue.js 기반으로 제작되어있는 프로젝트를 유지보수해본 경험이 있습니다.
 * 오픈소스 라이브러리를 적재적소에 적용할 수 있으며, 라이센스별 사용범위에 대해 이해하고 있습니다.
-{% endtab %}
-
-{% tab title="Infra & Devops" %}
-* **쿠버네티스**와 **도커**를 프로덕션 환경에서 활용할 수 있습니다.
-  * Dockerfile, docker-compose.yml 파일을 작성할 수 있습니다.
-  * 쿠버네티스의 주요 기능들을 이해하고, 운영에 필요한 yaml 파일을 작성할 수 있습니다. (실제로 개인 프로젝트 배포를 위한 개인 쿠버네티스 클러스터를 운영하고 있습니다)
-* **AWS** 기반으로 테스트, 프로덕션 환경을 구축할 수 있습니다. (EC2, RDS, Elastic Beanstalk, S3, Route53, CloudFront 등)
-* **Cloudflare**를 프로덕션 환경에서 활용하며, DNS/WAF/Cache 등 다양한 기능들을 적재적소에 활용할 수 있습니다.
-* **Linux** 기반 시스템을 구축하고 운영할 수 있으며 Apache, Nginx 를 활용할 수 있습니다. (Ubuntu, Centos 등)
-* **Jenkins**나 **AWS CodePipeline, Github Actions, ArgoCD** 등을 이용해 PHP, Node.js, Python 서비스의 배포 과정을 자동화한 경험이 있습니다.
-  * Jenkinsfile을 작성하여 배포 Pipeline을 구축할 수 있습니다.
-  * Github Actions → AWS ECR (or Dockerhub) → ArgoCD → k8s cluster 방향으로 배포 과정을 자동화한 경험이 있습니다. (GitOps)
 {% endtab %}
 
 {% tab title="Etc skills" %}
@@ -116,7 +128,7 @@
 
 ## 학력
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>세종사이버대학교</strong></td><td>컴퓨터·AI 공학과</td><td>2021.03 ~ 현재 재학중</td></tr><tr><td><strong>가톨릭대학교</strong></td><td>컴퓨터정보공학부</td><td>2019.03 ~ 2021.02 (중퇴)</td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>세종사이버대학교</strong></td><td>컴퓨터·AI 공학과</td><td>2021.03 ~ 현재 재학중 (24년 2월 졸업 예정)</td></tr><tr><td><strong>가톨릭대학교</strong></td><td>컴퓨터정보공학부</td><td>2019.03 ~ 2021.02 (중퇴)</td></tr></tbody></table>
 
 
 
