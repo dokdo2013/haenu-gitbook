@@ -15,20 +15,20 @@
 ## 경력
 
 {% hint style="warning" %}
-각 회사에서 진행한 프로젝트는 [portfolio](portfolio/ "mention") 메뉴에서 살펴보실 수 있습니다
+각 회사에서 진행한 세부 프로젝트는 [portfolio](portfolio/ "mention") 메뉴에서 살펴보실 수 있습니다
 {% endhint %}
 
 <details>
 
 <summary><mark style="color:purple;">(주)이제이엔</mark> → 2022.04 ~ 재직 중</summary>
 
-* 직무 : BackEnd Developer
+* 직무 : BackEnd Developer / DevOps Engineer
 * 주요 업무 : 트윕, 트게더 신규기능 개발 및 유지보수
   * 트윕 모바일 (트게더 앱) 백엔드 담당
   * 트윕 신규 후원 '빙빙도네' 백엔드 담당
   * [트윕 클립](https://vod.twip.kr) 서비스 Product Owner, 전체 개발(FE + BE) 담당
 * 주요 기술 스택
-  * BackEnd : Nest.js, PHP CodeIgniter 3, Kubernetes, MySQL/MariaDB, Redis, AWS
+  * BackEnd : NestJs, PHP CodeIgniter 3, Kubernetes, MySQL/MariaDB, Redis, AWS
   * FrontEnd : Next.js, React.js
 
 </details>
