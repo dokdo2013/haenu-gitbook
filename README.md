@@ -12,6 +12,10 @@
 [resume.md](about/resume.md)
 {% endcontent-ref %}
 
+{% file src=".gitbook/assets/조현우 (20231029 통합).pdf" %}
+PDF 이력서 (Wanted 서식)
+{% endfile %}
+
 ### 포트폴리오
 
 {% content-ref url="about/portfolio/" %}
@@ -25,4 +29,9 @@
 {% content-ref url="about/side-etc.md" %}
 [side-etc.md](about/side-etc.md)
 {% endcontent-ref %}
+
+### 기타 링크
+
+* GitHub : [https://github.com/dokdo2013](https://github.com/dokdo2013)
+* Blog : [https://blog.haenu.com](https://blog.haenu.com)
 

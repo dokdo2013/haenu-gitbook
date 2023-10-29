@@ -72,9 +72,7 @@ jobcard.jobmap.kr
 
 이용할 트래픽에 따라 요금제가 정해지고, 해당 트래픽을 모두 소진하면 사이트 접속이 당일 자정까지 차단되는 호스팅의 특성상 이용 트래픽에 대한 관리가 필요했습니다. 아쉽게도 트래픽 알림 기능은 따로 존재하지 않았고, 결제 카드를 연결해두면 자동 초기화도 가능했으나 선택적으로 초기화가 필요할 때에만 초기화를 하고 싶었기에 트래픽 모니터링 코드를 파이썬으로 간단하게 작성하여 활용했습니다.
 
-{% embed url="https://github.com/dokdo2013/cafe24_traffic_monitoring" %}
-dokdo2013/cafe24\_traffic\_monitoring
-{% endembed %}
+{% @github-files/github-code-block %}
 
 
 
