@@ -1,4 +1,4 @@
-# 트위치 스트리머
+# 영상 편집자
 
 {% hint style="warning" %}
 Coming Soon!

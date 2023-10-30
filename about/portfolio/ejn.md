@@ -14,7 +14,7 @@ description: 필요에 따라 개발한 사내 프로덕트
   * 모든 요청에 대해 Google Drive 스프레드시트에 Audit log 기록
 * 개발 배경 : 기존에 파이썬 슬랙봇이 있었는데 개발했던 직원 퇴사 후 관리도 되지 않고 있고 기능도 제한적이어서, 현재 회사 기술스택에 맞춰 NestJS로 신규 개발 진행.
 * 개발 기간 : 2일 (주말)
-* 사용 기술 : NestJS, Google Drive API, Ngrok
+* 사용 기술 : NestJS, Zod, Google Drive API, Ngrok
 * 특이 사항 : 문서화도 함께 진행하여 다른 개발자들도 쉽게 기여할 수 있고, 실제로 쓰고 싶은 기능을 만들어 PR로 올려주기도 하였음. 로컬 개발시에는 Ngrok을 적극 활용하여 슬랙 연동을 하였음.
 
 

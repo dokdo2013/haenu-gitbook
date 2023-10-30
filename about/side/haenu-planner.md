@@ -9,6 +9,10 @@ Coming Soon!
 {% endhint %}
 
 {% embed url="https://github.com/dokdo2013/haenu-planner-alpha" %}
+GitHub (alpha version)
+{% endembed %}
 
 {% embed url="https://github.com/dokdo2013/haenu-planner-v1" %}
+GitHub (v1)
+{% endembed %}
 
