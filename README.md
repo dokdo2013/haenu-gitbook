@@ -1,6 +1,6 @@
 # 👋 안녕하세요, 조현우입니다
 
-안녕하세요, 5년차 웹 풀스택 엔지니어 조현우입니다.
+안녕하세요, 5년차 소프트웨어 엔지니어 조현우입니다.
 
 아래 이력서와 포트폴리오 버튼을 눌러 저에 대해 더 알아보세요.
 
@@ -12,7 +12,7 @@
 [resume.md](about/resume.md)
 {% endcontent-ref %}
 
-{% file src=".gitbook/assets/조현우 (20231029 통합).pdf" %}
+{% file src=".gitbook/assets/소프트웨어 엔지니어 조현우입니다.pdf" %}
 PDF 이력서 (Wanted 서식)
 {% endfile %}
 
