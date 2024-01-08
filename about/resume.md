@@ -1,7 +1,7 @@
 # ⚫ 이력서
 
 {% hint style="info" %}
-스타트업 정신으로 무장해서 **누구보다 빠르게 아이디어를 현실로 만들어내는** 5년차 소프트웨어 엔지니어 조현우입니다.
+스타트업 정신으로 무장해서 **누구보다 빠르게 아이디어를 현실로 만들어내는** 5년차 풀스택 엔지니어 조현우입니다.
 {% endhint %}
 
 ## 조현우 (Hyeon Woo Jo)
@@ -20,7 +20,15 @@
 
 <details>
 
-<summary><mark style="color:purple;">(주)이제이엔</mark> → 2022.04 ~ 재직 중</summary>
+<summary><mark style="color:purple;">HYPERCONNECT</mark> → 2024.01 ~ 재직 중</summary>
+
+* 직무 : Internal Platform Engineer
+
+</details>
+
+<details>
+
+<summary><mark style="color:purple;">(주)이제이엔</mark> → 2022.04 ~ 2023.12 (1년 9개월)</summary>
 
 * 직무 : BackEnd Developer / DevOps Engineer
 * 주요 업무 : 트윕, 트게더 신규기능 개발 및 유지보수
@@ -121,7 +129,7 @@
 
 ## 학력
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>세종사이버대학교</strong></td><td>컴퓨터·AI 공학과</td><td>2021.03 ~ 2024.02 (현재 재학중)</td></tr><tr><td><strong>가톨릭대학교</strong></td><td>컴퓨터정보공학부</td><td>2019.03 ~ 2021.02 (중퇴)</td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>아주대학교</strong></td><td>교육대학원 소프트웨어교육전공 (석사)</td><td>2024.03 ~ </td></tr><tr><td><strong>세종사이버대학교</strong></td><td>컴퓨터·AI 공학과 (학사)</td><td>2021.03 ~ 2024.02</td></tr><tr><td><strong>가톨릭대학교</strong></td><td>컴퓨터정보공학부</td><td>2019.03 ~ 2021.02 (중퇴)</td></tr></tbody></table>
 
 
 
