@@ -23,6 +23,9 @@
 <summary><mark style="color:purple;">HYPERCONNECT</mark> → 2024.01 ~ 재직 중</summary>
 
 * 직무 : Internal Platform Engineer
+* 주요 업무
+  * 사내 공통 플랫폼 설계 및 구축
+  * 내부 개발자 플랫폼 설계 및 구축
 
 </details>
 
@@ -129,7 +132,7 @@
 
 ## 학력
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>아주대학교</strong></td><td>교육대학원 소프트웨어교육전공 (석사)</td><td>2024.03 ~ </td></tr><tr><td><strong>세종사이버대학교</strong></td><td>컴퓨터·AI 공학과 (학사)</td><td>2021.03 ~ 2024.02</td></tr><tr><td><strong>가톨릭대학교</strong></td><td>컴퓨터정보공학부</td><td>2019.03 ~ 2021.02 (중퇴)</td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>한국외국어대학교</strong></td><td>교육대학원 컴퓨터교육전공 (석사)</td><td>2024.03 ~ </td></tr><tr><td><strong>세종사이버대학교</strong></td><td>컴퓨터·AI 공학과 (학사)</td><td>2021.03 ~ 2024.02</td></tr><tr><td><strong>가톨릭대학교</strong></td><td>컴퓨터정보공학부</td><td>2019.03 ~ 2021.02 (중퇴)</td></tr></tbody></table>
 
 
 
