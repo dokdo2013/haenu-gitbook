@@ -22,10 +22,14 @@
 
 <summary><mark style="color:purple;">HYPERCONNECT</mark> → 2024.01 ~ 재직 중</summary>
 
-* 직무 : Internal Platform Engineer
+* Internal Platform Engineer, DevOps Team
+
+<!---->
+
 * 주요 업무
-  * 사내 공통 플랫폼 설계 및 구축
-  * 내부 개발자 플랫폼 설계 및 구축
+  * Internal Platform Unit의 첫 멤버로 합류해, 불명확한 팀의 R\&R을 정해나가고, 정해지지 않은 업무를 정의하며 팀을 만들어나가기
+  * 사내 비개발 직군 생산성 개선을 위한 툴 제작 및 통합 플랫폼 구축
+  * 내부 개발자 플랫폼 설계 및 구축 지원
 
 </details>
 
@@ -33,13 +37,18 @@
 
 <summary><mark style="color:purple;">(주)이제이엔</mark> → 2022.04 ~ 2023.12 (1년 9개월)</summary>
 
-* 직무 : BackEnd Developer / DevOps Engineer
+* Backend Developer, Backend Team (2022.04 \~ 2023.08)
+* DevOps Engineer, DevOps Team (2023.08 \~ 2013.12)
+
+<!---->
+
 * 주요 업무 : 트윕, 트게더 신규기능 개발 및 유지보수
   * AWS 인프라 및 쿠버네티스 클러스터 관리
   * 트윕 모바일 (트게더 앱) 백엔드 담당
   * 트윕 신규 후원 '빙빙도네' 백엔드 담당
   * [트윕 클립](https://vod.twip.kr) 서비스 Product Owner, 전체 개발(FE + BE) 담당
 * 주요 기술 스택
+  * DevOps :&#x20;
   * BackEnd : NestJS, PHP CodeIgniter 3, Kubernetes, MySQL/MariaDB, Redis, AWS
   * FrontEnd : Next.js, React.js
 
@@ -49,7 +58,10 @@
 
 <summary><mark style="color:purple;">(주)엠에이치큐</mark> → 2<strong>021.10 ~ 2022.04 (7개월)</strong></summary>
 
-* 직무 / 직위 : Web Developer / 웹개발팀 사원
+* Web Developer, Web Team
+
+<!---->
+
 * 주요 업무 : [i.M 택시](https://www.imforyou.co.kr/) 서비스 개발 및 유지보수
   * i.M 택시 백오피스 제작 및 유지보수
   * i.M 택시 애플리케이션 내 웹뷰 개발
@@ -62,7 +74,10 @@
 
 <summary><mark style="color:purple;">(주)미래직업전망연구원</mark> → 2019.09 ~ 2021.08 (2년)</summary>
 
-* 직무 / 직위 : Web Developer / 플랫폼개발사업본부 선임연구원
+* Web Developer, 플랫폼개발사업본부
+
+<!---->
+
 * 주요 업무 : 신규 플랫폼 개발
   * 개발자가 혼자인 회사에서 PHP로 신규 플랫폼을 만들어 런칭까지 진행
   * 기존에 ASP.Net으로 만들어진 서비스의 유지보수
@@ -75,10 +90,26 @@
 ## 스킬
 
 {% tabs %}
+{% tab title="Frontend" %}
+* **React.js** 및 기반 기술들을 이용해 API로 연동되어 동작하는 웹사이트를 제작할 수 있습니다.
+  * **Next.js** 를 이용해 React.js 기반으로 서버사이드렌더링이 가능하도록 웹페이지를 제작할 수 있습니다.
+  * 여러 UI Library들을 이용해본 경험이 있습니다. (Chakra UI, Mantine, MUI, Ant Design 등)
+  * React 환경에서 Tailwind CSS를 이용해 스타일링을 적용할 수 있습니다.
+  * SWR이나 React Query와 같은 Data fething 라이브러리를 사용할 수 있습니다.
+  * Jotai, Recoil과 같은 상태관리 툴을 사용해본 경험이 있습니다.
+* **HTML5 / CSS3 / Javascript** 를 이용해 기본적인 퍼블리싱을 무리 없이 할 수 있습니다.
+  * **jQuery**와 **Bootstrap**을 이용해 자유롭게 원하는 레이아웃을 구성할 수 있습니다.
+* **타입스크립트**와 모던 자바스크립트 문법 (**ES6+**) 사용에 익숙합니다.
+* PWA(Progressive Web App)를 Next 앱에서 세팅하여 배포해본 경험이 있습니다.
+* Vue.js (Vue2, Vue3, Nuxt.js) 기반으로 제작되어있는 프로젝트를 유지보수해본 경험이 있습니다.
+{% endtab %}
+
 {% tab title="Backend" %}
-* **NestJS** 를 이용해 백엔드 API 서버를 개발할 수 있습니다.
-  * **Sequelize, TypeORM** 등 Node.js 기반 **ORM 프레임워크**를 이용해 데이터베이스를 연동할 수 있습니다.
-  * Express 만을 이용해서도 백엔드 API 서버 개발이 가능합니다.
+* **Node.js 백엔드**를 주력으로 합니다
+  * NestJS, Express 등을 이용해 REST API 서버를 개발합니다.
+  * Sequelize, TypeORM 등 Node.js 기반 ORM 라이브러리를 활용해 데이터베이스를 연동합니다.
+  * Redis 등 서버사이드 캐시를 적용해 API를 최적화합니다.
+  * Kafka, SQS 등 이벤트 브로커를 이용해 분산환경에 적합한 백엔드를 설계할 수 있습니다.
 * 그 외 PHP와 Python을 이용해서 서비스를 개발한 경험도 많습니다. (신규 및 유지보수)
   * **PHP 기반 CodeIgniter 프레임워크**를 활용해 자유자재로 서비스를 구축할 수 있으며, **MVC 패턴**에 대해 이해하고 있습니다. (버전 3 & 4)
   * **Python Flask, FastAPI 프레임워크** 기반으로 **RESTFul API**를 설계할 수 있습니다.
@@ -103,21 +134,8 @@
 * Cloudflare에서 제공하는 다양한 기능들을 활용해 서비스 보안 강화, 성능 개선 등 구성을 할 수 있습니다.
 {% endtab %}
 
-{% tab title="Frontend" %}
-* **React.js** 및 기반 기술들을 이용해 API로 연동되어 동작하는 웹사이트를 제작할 수 있습니다.
-  * **Next.js** 를 이용해 React.js 기반으로 서버사이드렌더링이 가능하도록 웹페이지를 제작할 수 있습니다.
-  * 여러 UI Library들을 이용해본 경험이 있습니다. (Chakra UI, Mantine, MUI, Ant Design 등)
-  * React 환경에서 Tailwind CSS를 이용해 스타일링을 적용할 수 있습니다.
-  * SWR이나 React Query와 같은 Data fething 라이브러리를 사용할 수 있습니다.
-  * Recoil과 같은 상태관리 툴을 사용해본 경험이 있습니다.
-* **HTML5 / CSS3 / Javascript** 를 이용해 기본적인 퍼블리싱을 무리 없이 할 수 있습니다.
-  * **jQuery**와 **Bootstrap**을 이용해 자유롭게 원하는 레이아웃을 구성할 수 있습니다.
-* **타입스크립트**와 모던 자바스크립트 문법 (**ES6+**) 사용에 익숙합니다.
-* PWA(Progressive Web App)를 Next 앱에서 세팅하여 배포해본 경험이 있습니다.
-* Vue.js 기반으로 제작되어있는 프로젝트를 유지보수해본 경험이 있습니다.
-{% endtab %}
-
 {% tab title="Etc skills" %}
+* 비개발직군과의 협업시 강력한 소프트 스킬을 보유하고 있다고 자신합니다. (투명한 일정 관리와 공유부터, 비개발 직군이 이해할 수 있는 용어로의 설명 등)
 * **Git**을 활용하여 소스코드 버전을 관리하고 협업할 수 있습니다. (GitHub, Gitlab 등)
 * **Jira, Confluence, Notion, Slack** 등의 협업 툴을 이용하여 타 펑션과 협업할 수 있습니다.
 * 문서화에 관심이 많아 담당했던 부분은 최대한 디테일하고 구조적인 기술문서를 작성하여, 추후 유지보수나 인수인계 과정에서 도움을 많이 받기도 하였습니다.

@@ -6,6 +6,7 @@
 
 * [⚫ 이력서](about/resume.md)
 * [🔵 포트폴리오](about/portfolio/README.md)
+  * [크리에이터 관리 내부 툴 개발](about/portfolio/undefined.md)
   * [TWIP 핀볼게임](about/portfolio/twip-pinball.md)
   * [TWIP 빙빙도네](about/portfolio/twip-bingbing.md)
   * [TWIP CLIP](about/portfolio/twip-clip.md)
@@ -70,6 +71,8 @@
 
 ## 🔗 Links
 
-* [Github](https://github.com/dokdo2013)
-* [Linkedin](https://www.linkedin.com/in/hyeon-woo-jo-ba08b4223/)
-* [Blog](https://blog.haenu.com)
+* [GitHub](https://github.com/dokdo2013)
+* [LinkedIn](https://www.linkedin.com/in/dokdo2013/)
+* [Tech Blog](https://blog.haenu.com)
+* [X (Twitter)](https://twitter.com/doyoniiii\_)
+* [Coffee Chat](https://sendtime.app/ko/reservation?i=1ipffx)
