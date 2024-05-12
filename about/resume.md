@@ -56,7 +56,7 @@
 
 <details>
 
-<summary><mark style="color:purple;">(주)엠에이치큐</mark> → 2<strong>021.10 ~ 2022.04 (7개월)</strong></summary>
+<summary><mark style="color:purple;">(주)엠에이치큐</mark> → 2021.10 ~ 2022.04 (7개월)</summary>
 
 * Web Developer, Web Team
 
@@ -150,7 +150,32 @@
 
 ## 학력
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>한국외국어대학교</strong></td><td>교육대학원 컴퓨터교육전공 (석사)</td><td>2024.03 ~ </td></tr><tr><td><strong>세종사이버대학교</strong></td><td>컴퓨터·AI 공학과 (학사)</td><td>2021.03 ~ 2024.02</td></tr><tr><td><strong>가톨릭대학교</strong></td><td>컴퓨터정보공학부</td><td>2019.03 ~ 2021.02 (중퇴)</td></tr></tbody></table>
+<details>
+
+<summary>[석사 과정 재학] 한국외국어대학교 대학원</summary>
+
+* 교육대학원 (컴퓨터교육전공) 재학
+* 2024.03 \~&#x20;
+
+</details>
+
+<details>
+
+<summary>[학사 졸업] 세종사이버대학교</summary>
+
+* IT학부 컴퓨터·AI 공학과 졸업
+* 2021.03 (2학년 편입) \~ 2024.02
+
+</details>
+
+<details>
+
+<summary>[학사 중퇴] 가톨릭대학교</summary>
+
+* ICT공학계열 컴퓨터정보공학부 중퇴
+* 2019.03 \~ 2021.02 (중퇴)
+
+</details>
 
 
 
