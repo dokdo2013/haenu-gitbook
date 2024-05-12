@@ -1,4 +1,4 @@
-# 나의 개발연대기
+# Life Checkpoint
 
 {% hint style="warning" %}
 Coming Soon!

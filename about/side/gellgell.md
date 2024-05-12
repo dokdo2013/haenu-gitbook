@@ -30,7 +30,7 @@ GitHub (FE)
 
 * Frontend : React.js, Chakra UI
 * Backend : Python FastAPI, MariaDB (AWS RDS)
-* 현재 배포 : [haenu-cluster.md](../haenu-cluster.md "mention")
+* 현재 배포 : [haenu-cluster.md](../side-etc/haenu-cluster.md "mention")
 
 
 
