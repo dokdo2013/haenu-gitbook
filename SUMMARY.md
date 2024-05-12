@@ -5,7 +5,7 @@
 ## 😍 About me <a href="#about" id="about"></a>
 
 * [⚫ 이력서](about/resume.md)
-* [🟤 개발 연혁](about/undefined.md)
+* [🟤 개발 연혁](about/history.md)
 * [🔵 포트폴리오](about/portfolio/README.md)
   * [크리에이터 관리 내부 툴 개발](about/portfolio/undefined.md)
   * [TWIP 핀볼게임](about/portfolio/twip-pinball.md)

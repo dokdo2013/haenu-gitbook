@@ -16,6 +16,12 @@
 PDF 이력서 (Wanted 서식)
 {% endfile %}
 
+### 2012년부터 현재까지! 개발 연혁을 살펴보세요
+
+{% content-ref url="about/history.md" %}
+[history.md](about/history.md)
+{% endcontent-ref %}
+
 ### 포트폴리오
 
 {% content-ref url="about/portfolio/" %}
