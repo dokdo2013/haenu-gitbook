@@ -6,7 +6,7 @@
 
 * [⚫ 이력서](about/resume.md)
 * [🟤 개발 연혁](about/history.md)
-* [🔵 포트폴리오](about/portfolio/README.md)
+* [🔵 포트폴리오 (경력기술)](about/portfolio/README.md)
   * [크리에이터 관리 내부 툴 개발](about/portfolio/undefined.md)
   * [TWIP 핀볼게임](about/portfolio/twip-pinball.md)
   * [TWIP 빙빙도네](about/portfolio/twip-bingbing.md)
