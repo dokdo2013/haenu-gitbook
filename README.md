@@ -1,6 +1,6 @@
 # 👋 안녕하세요, 조현우입니다
 
-안녕하세요! 5년차 풀스택 엔지니어 조현우입니다.
+안녕하세요! 6년차 풀스택 엔지니어 조현우입니다.
 
 아래 이력서와 포트폴리오 버튼을 눌러 저에 대해 더 알아보세요.
 
@@ -26,6 +26,10 @@ PDF 이력서 (Wanted 서식)
 
 {% content-ref url="about/portfolio/" %}
 [portfolio](about/portfolio/)
+{% endcontent-ref %}
+
+{% content-ref url="about/speech/" %}
+[speech](about/speech/)
 {% endcontent-ref %}
 
 {% content-ref url="about/side/" %}

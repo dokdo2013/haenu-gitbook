@@ -95,7 +95,7 @@
   * **Next.js** 를 이용해 React.js 기반으로 서버사이드렌더링이 가능하도록 웹페이지를 제작할 수 있습니다.
   * 여러 UI Library들을 이용해본 경험이 있습니다. (Chakra UI, Mantine, MUI, Ant Design 등)
   * React 환경에서 Tailwind CSS를 이용해 스타일링을 적용할 수 있습니다.
-  * SWR이나 React Query와 같은 Data fething 라이브러리를 사용할 수 있습니다.
+  * SWR이나 Tanstack Query와 같은 Data fething 라이브러리를 사용할 수 있습니다.
   * Jotai, Recoil과 같은 상태관리 툴을 사용해본 경험이 있습니다.
 * **HTML5 / CSS3 / Javascript** 를 이용해 기본적인 퍼블리싱을 무리 없이 할 수 있습니다.
   * **jQuery**와 **Bootstrap**을 이용해 자유롭게 원하는 레이아웃을 구성할 수 있습니다.

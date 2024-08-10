@@ -4,10 +4,22 @@ description: 사이드 프로젝트로 커리어 레벨업!
 
 # INFCON 2024
 
-{% embed url="https://drive.google.com/file/d/1etRShlW5ttZp2L7M66PdXGyT3WXo5a61/view?usp=sharing" %}
+{% file src="../../.gitbook/assets/INFCON2024_발표자료_조현우_v4 (최종).pdf" %}
+발표 자료
+{% endfile %}
 
-* PDF 버전 업로드 예정
-* 발표 영상 업로드 예정
+
+
+### 발표 개요
+
+* 주제 : 사이드 프로젝트로 커리어 레벨업!
+* 발표일시 : 2024년 8월 2일 (금) / 12:15 \~ 12:35 (20분)
+
+
+
+### 발표 영상
+
+(업로드 예정)
 
 
 
