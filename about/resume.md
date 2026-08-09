@@ -1,7 +1,7 @@
 # ⚫ 이력서
 
 {% hint style="info" %}
-스타트업 정신으로 무장해서 **누구보다 빠르게 아이디어를 현실로 만들어내는** 5년차 풀스택 엔지니어 조현우입니다.
+기업의 복잡한 업무와 사용자의 문제를 AI와 소프트웨어로 풀고, 문제 정의부터 풀스택 구현·출시·운영·성장까지 책임지는 8년차 AI-native Product Engineer 조현우입니다.
 {% endhint %}
 
 ## 조현우 (Hyeon Woo Jo)
@@ -20,12 +20,23 @@
 
 <details>
 
-<summary><mark style="color:purple;">HYPERCONNECT</mark> → 2024.01 ~ 재직 중</summary>
+<summary><mark style="color:purple;">디와이랩스(창업)</mark> → 2026.03 ~ 2026.08 (6개월)</summary>
+
+* CEO (창업)
+  * Side Project (2024.08 \~ 2026.03)
+  * Full Time (2026.03 \~ 2026.08)
+* 스트리머와 팬, 커미션 작가를 연결하는 올인원 플랫폼 '멜로밍' 개발 및 운영
+  * 1년만에 MAU 6만, 거래액 1억 달성으로 0 to 1 성장
+  * 한국 버추얼 스트리머 3명 중 1명이 사용하는 라이브 스트리밍 보조 도구로 성장
+  * 버추얼 스트리머 전문 커미션(외주 중개) 플랫폼으로 출시 5개월만에 누적 중개 1천건 및 거래액 1억 달성
+
+</details>
+
+<details>
+
+<summary><mark style="color:purple;">HYPERCONNECT</mark> → 2024.01 ~ 2026.03 (2년 3개월)</summary>
 
 * Internal Platform Engineer, DevOps Team
-
-<!---->
-
 * 주요 업무
   * Internal Platform Unit의 첫 멤버로 합류해, 불명확한 팀의 R\&R을 정해나가고, 정해지지 않은 업무를 정의하며 팀을 만들어나가기
   * 사내 비개발 직군 생산성 개선을 위한 툴 제작 및 통합 플랫폼 구축
@@ -39,9 +50,6 @@
 
 * Backend Developer, Backend Team (2022.04 \~ 2023.08)
 * DevOps Engineer, DevOps Team (2023.08 \~ 2013.12)
-
-<!---->
-
 * 주요 업무 : 트윕, 트게더 신규기능 개발 및 유지보수
   * AWS 인프라 및 쿠버네티스 클러스터 관리
   * 트윕 모바일 (트게더 앱) 백엔드 담당
@@ -59,9 +67,6 @@
 <summary><mark style="color:purple;">(주)엠에이치큐</mark> → 2021.10 ~ 2022.04 (7개월)</summary>
 
 * Web Developer, Web Team
-
-<!---->
-
 * 주요 업무 : [i.M 택시](https://www.imforyou.co.kr/) 서비스 개발 및 유지보수
   * i.M 택시 백오피스 제작 및 유지보수
   * i.M 택시 애플리케이션 내 웹뷰 개발
@@ -75,9 +80,6 @@
 <summary><mark style="color:purple;">(주)미래직업전망연구원</mark> → 2019.09 ~ 2021.08 (2년)</summary>
 
 * Web Developer, 플랫폼개발사업본부
-
-<!---->
-
 * 주요 업무 : 신규 플랫폼 개발
   * 개발자가 혼자인 회사에서 PHP로 신규 플랫폼을 만들어 런칭까지 진행
   * 기존에 ASP.Net으로 만들어진 서비스의 유지보수
@@ -155,7 +157,7 @@
 <summary>[석사 과정 재학] 한국외국어대학교 대학원</summary>
 
 * 교육대학원 (컴퓨터교육전공) 재학
-* 2024.03 \~&#x20;
+* 2024.03 \~ (휴학)
 
 </details>
 
