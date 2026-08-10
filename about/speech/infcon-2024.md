@@ -19,7 +19,7 @@ description: 사이드 프로젝트로 커리어 레벨업!
 
 ### 발표 영상
 
-(업로드 예정)
+{% embed url="https://www.youtube.com/watch?v=nzH1yXXQHXg" %}
 
 
 

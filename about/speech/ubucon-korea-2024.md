@@ -19,5 +19,5 @@ description: LXD-UI를 이용해 웹에서 VM, 컨테이너 프로비저닝하�
 
 ### 발표 영상
 
-(업로드 예정)
+{% embed url="https://www.youtube.com/watch?v=zlcr_63zDoo" %}
 
