@@ -90,19 +90,22 @@
 ### 2024 (25세, 대학원1, 개발자 6년차)
 
 * 하이퍼커넥트 입사 (2024.01)
-* [크리에이터 관리 내부 툴 개발](portfolio/undefined-5.md) (React.js)
+* [크리에이터 관리 내부 툴 개발](portfolio/hpcnt-hakuna-backstage.md) (React.js)
 * 세종사이버대학교 졸업 (공학사, 2024.02)
 * 한국외국어대학교 교육대학원 입학 (2024.03)
 * 산업기능요원 복무 만료 (2024.05)
 * [INFCON 2024](speech/infcon-2024.md) 발표 (2024.08)
 * [UbuCon Korea 2024](speech/ubucon-korea-2024.md) 발표 (2024.08)
+* [전사 내부 플랫폼 개발 및 운영](portfolio/hpcnt-internal-platform.md) (Next.js, NestJS)
 
 ### 2025 (26세, 개발자 7년차)
 
+* [재무데이터 파이프라인 및 대시보드 개발](portfolio/hpcnt-finance-dashboard.md) (Databricks, Tableau)
+* [내부 데이터베이스 스키마 관리 플랫폼 개발](portfolio/hpcnt-hurricane.md) (Next.js, NestJS, Kafka, Python)
 * 사이드 프로젝트 멜로밍 출시 (2025.08)
 
 ### 2026 (27세, 개발자 8년차)
 
+* [사내 AX TF 운영 및 AI 개발도구 도입](portfolio/hpcnt-ax-tf.md) (Cursor, Claude Code)
 * 하이퍼커넥트 퇴사 (2026.03)
 * 디와이랩스 풀타임 창업 (2026.03)
-*

@@ -92,6 +92,10 @@
 ## 스킬
 
 {% tabs %}
+{% tab title="AI Native" %}
+* Claude Code Max, ChatGPT Pro 계정을 최대 4개씩 직접 구독하며&#x20;
+{% endtab %}
+
 {% tab title="Frontend" %}
 * **React.js** 및 기반 기술들을 이용해 API로 연동되어 동작하는 웹사이트를 제작할 수 있습니다.
   * **Next.js** 를 이용해 React.js 기반으로 서버사이드렌더링이 가능하도록 웹페이지를 제작할 수 있습니다.
